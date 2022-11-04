@@ -52,7 +52,7 @@ export const Banner = () =>{
             <Container>
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
-                       <span className="tagline">Welcome to myjbxCCBVHBvh Portfolio! 🙏</span>
+                       <span className="tagline">Welcome to my Portfolio! 🙏</span>
                        <h1>{'Hi I am Vishal!'}<span className="wrap"><br/>{text}</span></h1>
                        <p>I'm enthusiastic about learning new technology and recognise that there are other ways to do a task. Though I am most comfortable designing front-end applications with HTML, CSS, Javascript, and React, I am a quick learner who can quickly take up new tech stacks as needed. Being a great developer, in my opinion, is about selecting the greatest tool for the job rather than employing a specific language.</p>
                        
