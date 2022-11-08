@@ -1,5 +1,5 @@
 import { Container, Row, Col, Nav,Tab } from "react-bootstrap";
-import { Displayport } from "react-bootstrap-icons";
+//import { Displayport } from "react-bootstrap-icons";
 import projImg1 from "../assets/img/Home1.png";
 import projImg3 from "../assets/img/ToDolist.JPG";
 import projImg2 from "../assets/img/portfolioHomePage.JPG";
