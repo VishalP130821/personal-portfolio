@@ -10,9 +10,7 @@ import mongodbIcon from "../assets/img/mongodbIcon.svg";
 import reactjsIcon from "../assets/img/reactjsIcon.svg";
 import githubIcon from "../assets/img/gitIcon.svg";
 import javaIcon from "../assets/img/javaIcon.svg";
-import kaliLinux from "../assets/img/kali-linux.svg"
-// import from "..assets/img/";
-// import from "..assets/img/";
+import kaliLinux from "../assets/img/kali-linux.svg";
 import colorSharp from "../assets/img/color-sharp.png";
 
 
@@ -45,6 +43,10 @@ export const Skills = () =>{
             <Row>
                 <Col>
                     <div className="skill-bx">
+                   
+
+
+
                        <h2>Skills</h2>
                        <p>What I Can Do ⮯</p>
                        <Carousel responsive={responsive} infinite={true} className="skill-slider" autoPlay={true} transitionTime={1} stopOnHover={true}>
