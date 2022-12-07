@@ -1,10 +1,10 @@
 import { Container, Row, Col, Nav,Tab } from "react-bootstrap";
+//import { Displayport } from "react-bootstrap-icons";
 import projImg1 from "../assets/img/Home1.png";
 import projImg3 from "../assets/img/ToDolist.JPG";
 import projImg2 from "../assets/img/portfolioHomePage.JPG";
 import { ProjectCard } from "./ProjectCards";
 import colorSharp2 from "../assets/img/color-sharp2.png";
-import FadeExample from "./reactReveal";
 
 
 
@@ -36,7 +36,7 @@ export const Projects = () =>{
           <Container>
             <Row>
                 <Col>
-                   <FadeExample />
+                   <h2>Projects</h2>
                    <p>What I've Built ⮯</p>
                    <Tab.Container id="projects-tabs" defaultActiveKey="first">
                    {/* <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
